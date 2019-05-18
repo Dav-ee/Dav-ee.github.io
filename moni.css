@@ -1,0 +1,50 @@
+.entire{
+	background:#ffcf79;	
+}
+
+#menuSection{
+	background-color:darkgreen;
+	height:50px;
+	font-size:25px;
+	font-family:Tahoma;
+	font-weight:bold;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+}
+
+ol{
+list-style-type:none;
+padding:0;
+margin:0;	
+}
+li{
+display:inline;
+padding:10px;
+vertical-align:middle;
+
+}
+a{
+text-decoration:none;
+color:white;
+vertical-align:middle;
+}
+
+a:hover{
+	font-weight:bold;
+	color:white;
+	background:linear-gradient(blue,  indigo);
+	border-radius:10px
+}
+.note{
+	color:red;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+div .about{
+	font-size:19px;
+	font-family:Helvetica;
+	margin-left:5px;
+
+}
