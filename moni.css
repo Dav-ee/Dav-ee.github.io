@@ -1,12 +1,13 @@
 .entire{
-	background:#ffcf79;	
+	background:#ffcf79;
+	background:linear-gradient(45deg, yellow, indigo);
 }
 
 #menuSection{
 	background-color:darkgreen;
 	height:50px;
 	font-size:25px;
-	font-family:Tahoma;
+	font-family:Helvetica,Tahoma;
 	font-weight:bold;
 	margin-left:10px;
 	margin-right:10px;
@@ -43,8 +44,8 @@ a:hover{
 }
 
 div .about{
-	font-size:19px;
-	font-family:Helvetica;
+	font-size:18px;
+	font-family:Georgia,Helvetica;
 	margin-left:5px;
 
 }
