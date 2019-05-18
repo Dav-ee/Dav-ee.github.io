@@ -6,8 +6,8 @@
 
 #menuSection{
 	background-color:darkgreen;
-	height:70px;
-	font-size:25px;
+	height:100px;
+	font-size:28px;
 	font-family:Helvetica,Tahoma;
 	font-weight:bold;
 	margin-left:10px;
@@ -22,7 +22,7 @@ margin:0;
 }
 li{
 display:inline;
-padding:10px;
+padding:40px;
 vertical-align:middle;
 
 }
