@@ -1,11 +1,12 @@
 .entire{
 	background:#ffcf79;
 	background:linear-gradient(45deg, yellow, indigo);
+	margin:15px;
 }
 
 #menuSection{
 	background-color:darkgreen;
-	height:50px;
+	height:70px;
 	font-size:25px;
 	font-family:Helvetica,Tahoma;
 	font-weight:bold;
