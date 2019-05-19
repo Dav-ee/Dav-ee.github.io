@@ -5,12 +5,12 @@
 
 #menuSection{
 	background-color:darkgreen;
-	height:100px;
+	height:110px;
 	font-size:30px;
 	font-family:Helvetica,Tahoma;
 	font-weight:bold;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:5px;
+	margin-right:5px;
 	margin-top:10px;
 }
 
@@ -21,10 +21,9 @@ margin:0;
 }
 li{
 display:inline;
-padding:25px;
-vertical-align:middle;
-
+padding:10px 10px 20px 20px;
 }
+
 a{
 text-decoration:none;
 color:white;
@@ -34,7 +33,7 @@ vertical-align:middle;
 a:hover{
 	font-weight:bold;
 	color:white;
-	background:linear-gradient(blue,  indigo);
+	background:linear-gradient(red, blue,  indigo);
 	border-radius:10px
 }
 .note{
