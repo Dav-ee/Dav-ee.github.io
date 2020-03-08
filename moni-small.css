@@ -4,10 +4,8 @@ body {
 }
 
 	.active {
-		border-bottom: 2px solid #fff;
-	padding:6px;
+  background:aquamarine;
     color: white;
-	border-radius:4px;
 }
 
 .menuSection{
