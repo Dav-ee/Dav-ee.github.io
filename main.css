@@ -1,5 +1,6 @@
   @media (min-width: 768px) {
 	     body{
+        max-height: 100%;
       scroll-behavior: smooth;
       overflow-x: hidden;
     }
@@ -114,6 +115,7 @@ width: 0;
 }
  }
 .container-grid{
+    margin-top: 20px;
 display: grid;
 grid-template-columns: auto;
 grid-gap: 10px;
@@ -376,6 +378,7 @@ width: 0;
  }
 
 .container-grid{
+  margin-top: 50px;
 display: grid;
 grid-template-columns: auto;
 grid-auto-rows:100px ;
