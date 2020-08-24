@@ -1,4 +1,9 @@
   @media (min-width: 768px) {
+	     body{
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+    }
+	  
 /*my skills*/
 .to-wrap-my-skills{
   width: 1170px;
@@ -261,6 +266,10 @@ height: 188px;
 
    /*masimu humu*/
      @media (max-width: 767px) {
+	        body{
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+    }
 /*my skills*/
 .to-wrap-my-skills{
      max-width:100%;
