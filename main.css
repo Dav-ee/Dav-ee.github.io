@@ -13,6 +13,7 @@
   padding: 20px 0 20px;
   line-height: 28px;
   font-size: 14px;
+  margin-top: 20px;
 }
 .to-wrap-my-skills h2{
 text-align: center;
@@ -251,7 +252,7 @@ color:white;
 .part1{
 float: left;
 margin-right:7%;
-height: 188px;
+height: 199px;
 }
 .System{
   font-size: 14px;
@@ -278,6 +279,7 @@ height: 188px;
   position: relative;
   line-height: 28px;
   font-size: 13px;
+    margin-top: 20px;
 }
 .to-wrap-my-skills h2{
 text-align: center;
