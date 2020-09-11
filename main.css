@@ -63,7 +63,7 @@ font-size: 15px;
     animation:php 2s ease-out;
   }
     .java{
-    width: 75%;
+    width: 80%;
     -webkit-animation:java 2s ease-out;
     -o-animation:java 2s ease-out;
     animation:java 2s ease-out;
@@ -103,7 +103,7 @@ width: 0;
 width: 0;
   }
 100%{
-  width:75%;
+  width:80%;
 }
  }
   @-moz-keyframes seo{
@@ -326,7 +326,7 @@ font-size: 14px;
     animation:php 3s ease-out;
   }
     .java{
-    width: 75%;
+    width: 80%;
     -webkit-animation:java 3s ease-out;
     -o-animation:java 3s ease-out;
     animation:java 3s ease-out;
@@ -366,7 +366,7 @@ width: 0;
 width: 0;
   }
 100%{
-  width:75%;
+  width:80%;
 }
  }
   @-moz-keyframes seo{
