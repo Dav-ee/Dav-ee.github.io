@@ -45,19 +45,19 @@ font-size: 15px;
 
   }
   .web{
-    width:85%;
+    width:90%;
     -webkit-animation:web 2s ease-out;
     -o-animation:web 2s ease-out;
     animation:web 2s ease-out;
   }
 .data{
-    width: 80%;
+    width: 76%;
     -webkit-animation:data 2s ease-out;
     -o-animation:data 2s ease-out;
     animation:data 2s ease-out;
   }
   .php{
-    width: 80%;
+    width: 82%;
     -webkit-animation:php 2s ease-out;
     -o-animation:php 2s ease-out;
     animation:php 2s ease-out;
@@ -69,17 +69,23 @@ font-size: 15px;
     animation:java 2s ease-out;
   }
   .seo{
-    width: 54%;
+    width: 66%;
     -webkit-animation:seo 2s ease-out;
     -o-animation:seo 2s ease-out;
     animation:seo 2s ease-out;
+  }
+    .flutter{
+    width: 40%;
+    -webkit-animation:flutter 2s ease-out;
+    -o-animation:flutter 2s ease-out;
+    animation:flutter 2s ease-out;
   }
  @-moz-keyframes web{
   0%{
 width: 0;
   }
 100%{
-  width:85%;
+  width:90%;
 }
  }
   @-moz-keyframes data{
@@ -87,7 +93,7 @@ width: 0;
 width: 0;
   }
 100%{
-  width:80%;
+  width:76%;
 }
  }
    @-moz-keyframes php{
@@ -95,7 +101,7 @@ width: 0;
 width: 0;
   }
 100%{
-  width:80%;
+  width:82%;
 }
  }
 @-moz-keyframes java{
@@ -111,7 +117,15 @@ width: 0;
 width: 0;
   }
 100%{
-  width:54%;
+  width:66%;
+}
+ }
+   @-moz-keyframes flutter{
+  0%{
+width: 0;
+  }
+100%{
+  width:40%;
 }
  }
 .container-grid{
@@ -308,19 +322,19 @@ font-size: 14px;
     height: 17px;
   }
   .web{
-    width:82%;
+    width:90%;
     -webkit-animation:web 3s ease-out;
     -o-animation:web 3s ease-out;
     animation:web 3s ease-out;
   }
 .data{
-    width: 74%;
+    width: 76%;
     -webkit-animation:data 3s ease-out;
     -o-animation:data 3s ease-out;
     animation:data 3s ease-out;
   }
   .php{
-    width: 80%;
+    width: 82%;
     -webkit-animation:php 3s ease-out;
     -o-animation:php 3s ease-out;
     animation:php 3s ease-out;
@@ -332,17 +346,23 @@ font-size: 14px;
     animation:java 3s ease-out;
   }
   .seo{
-    width: 54%;
+    width: 66%;
     -webkit-animation:seo 3s ease-out;
     -o-animation:seo 3s ease-out;
     animation:seo 3s ease-out;
+  }
+    .flutter{
+    width: 40%;
+    -webkit-animation:flutter 3s ease-out;
+    -o-animation:flutter 3s ease-out;
+    animation:flutter 3s ease-out;
   }
  @-moz-keyframes web{
   0%{
 width: 0;
   }
 100%{
-  width:82%
+  width:90%
 }
  }
   @-moz-keyframes data{
@@ -350,7 +370,7 @@ width: 0;
 width:0;
   }
 100%{
-  width:74%;
+  width:76%;
 }
  }
    @-moz-keyframes php{
@@ -358,7 +378,7 @@ width:0;
 width: 0;
   }
 100%{
-  width:80%;
+  width:82%;
 }
  }
 @-moz-keyframes java{
@@ -374,10 +394,17 @@ width: 0;
 width: 0;
   }
 100%{
-  width:54%;
+  width:66%;
 }
  }
-
+  @-moz-keyframes flutter{
+  0%{
+width: 0;
+  }
+100%{
+  width:40%;
+}
+ }
 .container-grid{
   margin-top: 50px;
 display: grid;
