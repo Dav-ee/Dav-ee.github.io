@@ -133,16 +133,17 @@ width: 0;
 display: grid;
 grid-template-columns: auto;
 grid-gap: 10px;
-grid-auto-rows:100px ;
+grid-auto-rows:119px ;
 margin-left: 8%;
 margin-right: 5%;
 margin-bottom: 40px;
+border: 1px solid green;
 /*grid-template-rows: 100px 100px 100px 100px;*/
 }
 .section{
 	border:1px solid white;
 grid-column:1 /1 ;
-grid-row:1 /5;
+grid-row:1 /6;
  background:#208f8f;
 color:yellow;
 text-align: center;
@@ -193,6 +194,18 @@ background-color: indigo;
 #xxxxxx{
     border:1px solid white;
   background-image:url(img/webster.png);
+}
+#xxxxxxx{
+    border:1px solid white;
+  background-image:url(img/cashflex.png);
+}
+#xxxxxxxx{
+    border:1px solid white;
+  background-image:url(img/cc.png);
+}
+#xxxxxxxxx{
+    border:1px solid white;
+  background-image:url(img/davee.png);
 }
 
 #x a{
@@ -250,6 +263,34 @@ border-radius: 7px;
 #xxxxxx a:hover{
 color:white;
 }
+#xxxxxxx a{
+text-decoration: none;
+color: yellow;
+padding:8px;
+border-radius: 7px;
+}
+#xxxxxxx a:hover{
+color:white;
+}
+#xxxxxxxx a{
+text-decoration: none;
+color: yellow;
+padding:8px;
+border-radius: 7px;
+}
+#xxxxxxxx a:hover{
+color:white;
+}
+#xxxxxxxxx a{
+text-decoration: none;
+color: yellow;
+padding:8px;
+border-radius: 7px;
+}
+#xxxxxxxxx a:hover{
+color:white;
+}
+
 #litle-Tittle{
 	font-size: 25px;
 	letter-spacing: 3px;
@@ -409,13 +450,13 @@ width: 0;
   margin-top: 50px;
 display: grid;
 grid-template-columns: auto;
-grid-auto-rows:100px ;
+grid-auto-rows:120px ;
 /*grid-template-rows: 100px 100px 100px 100px;*/
 }
 
 .section{
 grid-column:1 /1 ;
-grid-row:1 /5;
+grid-row:1 /6;
 background-color: inherit;
 color:yellow;
 text-align: center;
@@ -463,11 +504,21 @@ background-color: indigo;
     border:1px solid white;
   background-image:url(img/webster.png);
 }
-
+#xxxxxxx{
+    border:1px solid white;
+  background-image:url(img/cashflex.png);
+}
+#xxxxxxxx{
+    border:1px solid white;
+  background-image:url(img/davee.png);
+}
+#xxxxxxxxx{
+    border:1px solid white;
+  background-image:url(img/cc.png);
+}
 #x a{
 text-decoration: none;
 color: yellow;
-padding:8px;
 font-size: 14px;
 }
 #x a:hover{
@@ -478,7 +529,6 @@ color:white;
 text-decoration: none;
 font-size: 14px;
 color: yellow;
-padding:8px;
 }
 #xx a:hover{
 color:white;
@@ -486,7 +536,6 @@ color:white;
 #xxx a{
 text-decoration: none;
 color: yellow;
-padding:8px;
 font-size: 14px;
 }
 #xxx a:hover{
@@ -504,7 +553,6 @@ color:white;
 #xxxxx a{
 text-decoration: none;
 color: yellow;
-padding:8px;
 border-radius: 7px;
 font-size: 14px;
 }
@@ -514,11 +562,37 @@ color:white;
 #xxxxxx a{
 text-decoration: none;
 color: yellow;
-padding:8px;
 border-radius: 7px;
 font-size: 14px;
 }
 #xxxxxx a:hover{
+color:white;
+}
+#xxxxxxx a{
+text-decoration: none;
+color: yellow;
+border-radius: 7px;
+font-size: 14px;
+}
+#xxxxxxx a:hover{
+color:white;
+}
+#xxxxxxxx a{
+text-decoration: none;
+color: yellow;
+border-radius: 7px;
+font-size: 14px;
+}
+#xxxxxxxx a:hover{
+color:white;
+}
+#xxxxxxxxx a{
+text-decoration: none;
+color: yellow;
+border-radius: 7px;
+font-size: 14px;
+}
+#xxxxxxxxx a:hover{
 color:white;
 }
 #litle-Tittle{
