@@ -4,7 +4,9 @@
       scroll-behavior: smooth;
       overflow-x: hidden;
     }
-	  
+	 
+
+
 /*my skills*/
 .to-wrap-my-skills{
   width: 1170px;
@@ -189,11 +191,11 @@ background-color: indigo;
 }
 #xxxxx{
     border:1px solid white;
-  background-image:url(img/cards.png);
+  background-image:url(img/analytika2.png);
 }
 #xxxxxx{
     border:1px solid white;
-  background-image:url(img/webster.png);
+  background-image:url(img/primax.png);
 }
 #xxxxxxx{
     border:1px solid white;
@@ -201,7 +203,7 @@ background-color: indigo;
 }
 #xxxxxxxx{
     border:1px solid white;
-  background-image:url(img/cc.png);
+  background-image:url(img/analytika_admin.png);
 }
 #xxxxxxxxx{
     border:1px solid white;
@@ -498,11 +500,11 @@ background-color: indigo;
 }
 #xxxxx{
     border:1px solid white;
-  background-image:url(img/cards.png);
+  background-image:url(img/analytika2.png);
 }
 #xxxxxx{
     border:1px solid white;
-  background-image:url(img/webster.png);
+  background-image:url(img/primax.png);
 }
 #xxxxxxx{
     border:1px solid white;
@@ -510,7 +512,7 @@ background-color: indigo;
 }
 #xxxxxxxx{
     border:1px solid white;
-  background-image:url(img/davee.png);
+  background-image:url(img/analytika_admin.png);
 }
 #xxxxxxxxx{
     border:1px solid white;
